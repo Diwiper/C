@@ -3,7 +3,7 @@
 ## Recursive algorithms
 
 ## Task:
-Calculate:
+Calculate:  
 ![image](https://github.com/user-attachments/assets/abe02157-c6f1-4fe8-9a3d-b648210e3d69)
 
 
