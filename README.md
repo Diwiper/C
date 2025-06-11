@@ -13,5 +13,6 @@ Calculate:
 
 ## Task:
 The keys of the list elements are integers. Calculate the value of the expression:  
-![Acrobat_jCsnvgEyNL](https://github.com/user-attachments/assets/e0f594cb-375a-4a97-9bf0-af2e360d7644)
+![image](https://github.com/user-attachments/assets/1689f488-27d6-418e-a6d9-8286ed89e95a)  
+where a_i is the i-th element of the list.
 
